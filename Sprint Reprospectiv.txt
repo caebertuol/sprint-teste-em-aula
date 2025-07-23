@@ -1,0 +1,11 @@
+Documento de Retrospectiva da Sprint:
+
+Duração da Sprint: 18/07/25 - 23/07/25.
+
+O que funcionou bem: Descrição clara para definição das Histórias de Usuário prioritárias: As IDs 01 e 03 foram claramente definidas como histórias a serem implementadas na reunião de Sprint Planning. Isso proporcionou foco e clareza para equipe atuar com destreza e eficácia.
+A utilização de Git/GitHub para controlar o versionamento das alterações, sendo uma otima pratica para colaboração e acompanhamento das mudanças, garantindo que as modificações no index.html e contato.html sejam gerenciadas adequadamente.
+Também, a criação de Branches específicas para as tarefas, está abordagem é muito eficaz para isolar o desenvolvimento, evitando conflitos e facilitando a revisão do código.
+
+O que não funcionou bem: Durante a implementação das alterações em cada Branch (index e contato) houveram alguns impedimentos. Por exemplo, dificuldades na sintaxe com Git/GitHub, impactando o andamento. 
+
+Sugestões de melhoria: Elaborar documentação interna de boas práticas de uso de Git e GitHub, por exemplo: convenções de nomes de Branch, mensagem de commit, etc. Está pratica poderá otimizar o fluxo de trabalho e evitar erros comuns.
