@@ -1,0 +1,20 @@
+Nome da Sprint: Versionamento e Metodologias Ágeis.
+Duração da Sprint: 18/07/25 - 23/07/25
+
+Descrição da História do Usuário:
+
+História ID: 1
+
+Descrição: Na pagina index, ver a fonte com os nomes dos veículos e mudar para cor azul, proporcionando uma melhor experiência do usuário.
+Esforço Estimado: 6 horas.
+Obs. Editar o HTML manualmente.
+
+
+História ID: 3
+
+Na página contato, fazer alteração nos nomes dos links para as outras páginas sejam mais detalhadas para facilitar o entendimento e a navegação no portal.
+Esforço Estimado: 8 horas.
+Obs. Editar e acrescentar dados em JavaScript e CSS manualmente. 
+
+sprint-teste-em-aula
+Público
